@@ -1,6 +1,6 @@
-# appli_produit
+# VitalFraicheur
 
-A new Flutter project.
+Une application mobile dédiée à la vente de produits aquaponies.
 
 ## Getting Started
 
