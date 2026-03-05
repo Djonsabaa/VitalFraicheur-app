@@ -109,6 +109,14 @@ flutter:
      - assets/images/orange.png
      - assets/images/chou.png
      - assets/images/panier_leg.png
+     - assets/images/Captures/cap_accueilPage.jpg
+     - assets/images/Captures/DetailProduit_carotte.jpg
+     - assets/images/Captures/detailsProduitPage.jpg
+     - assets/images/Captures/ecran_Flash.jpg
+     - assets/images/Captures/PagePaiement.jpg
+     - assets/images/Captures/PageProduit_final.jpg
+     - assets/images/Captures/PanierPage.jpg
+     - assets/images/Captures/ProfilClient.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
