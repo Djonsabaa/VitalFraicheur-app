@@ -1,6 +1,23 @@
-# appli_produit
+# VitalFraicheur
 
-A new Flutter project.
+Une application mobile dédiée à la vente de produits aquaponies.
+
+## Fonctionalités
+- Consulter un produit
+- Ajouter un produit au panier
+- Commander en ligne
+- Effectuer le paiement
+- Suivre la livraison avec la géolocalisation
+
+## Technologies
+- Flutter
+- Node.js
+- Firebase
+- Stripe
+  
+## Captures d'écran 
+## Auteur
+ Oumou DRAME
 
 ## Getting Started
 
