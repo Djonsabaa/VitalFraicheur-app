@@ -15,8 +15,8 @@ Une application mobile dédiée à la vente de produits aquaponies.
 - Firebase
 - Stripe
  
-  ## Auteur
-  Oumou DRAME
+## Auteur
+ Oumou DRAME
 
 ## Getting Started
 
