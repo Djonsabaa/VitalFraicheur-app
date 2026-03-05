@@ -1,6 +1,6 @@
-# VitalFraicheur
+# VitalFraîcheur
 
-Une application mobile dédiée à la vente de produits aquaponies.
+C'est une application mobile dédiée à la vente de produits aquaponies. VitalFraîcheur offre une interface intuitive qui permet aux clients de consulter les produits disponibles, d'ajouter des articles à leur panier, de passer des commandes et d'effectuer des paiements en ligne. L'application offre également la possibilité de suivre la livraison en temps réel grâce à un système de géolocalisation.
 
 ## Fonctionalités
 - Consulter un produit
@@ -16,6 +16,10 @@ Une application mobile dédiée à la vente de produits aquaponies.
 - Stripe
   
 ## Captures d'écran 
+![tof](assets/images/panier_leg.png)
+![Accueil](assets/images/Captures/cap_accueilPage.jpg)
+![Produit](assets/images/Captures/Pageproduit_final.jpg)
+
 ## Auteur
  Oumou DRAME
 
