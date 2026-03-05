@@ -10,7 +10,7 @@ Une application mobile dédiée à la vente de produits aquaponies.
 - Suivre la livraison avec la géolocalisation
 
 ## Technologies
-- Flutter
+-Flutter
 - Node.js
 - Firebase
 - Stripe
