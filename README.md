@@ -9,11 +9,11 @@ Une application mobile dédiée à la vente de produits aquaponies.
 - Effectuer le paiement
 - Suivre la livraison avec la géolocalisation
 
-  ## Technologies
-  - Flutter
-  - Node.js
-  - Firebase
-  - Stripe
+## Technologies
+- Flutter
+- Node.js
+- Firebase
+- Stripe
  
   ## Auteur
   Oumou DRAME
