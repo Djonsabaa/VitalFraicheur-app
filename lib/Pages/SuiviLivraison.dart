@@ -23,7 +23,7 @@ class _SuiviLivraisonState extends State<SuiviLivraison> {
   LatLng? _currentPosition;
   LatLng? _clientPosition;
   List<LatLng> _polylinePoints = [];
-  String apiKey = 'AIzaSyADwlHiT-XDIAIHlblf1sCdB7xQaLnZeHs';
+  String apiKey = '';
 
   @override
   void initState() {
