@@ -31,10 +31,14 @@ import 'Pages/AjouterProduit.dart';
 import '/Models/SuiviCommandeArgs.dart';
 import 'Pages/SuiviLivraison.dart';
 import 'Pages/Livreur.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // charger le fichier .env
+  await dotenv.load();
+  // initialiser Firebase
   await Firebase.initializeApp();
 
   WidgetsFlutterBinding.ensureInitialized();

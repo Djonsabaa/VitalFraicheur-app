@@ -6,6 +6,7 @@ import 'package:permission_handler/permission_handler.dart';
 import 'package:flutter_polyline_points/flutter_polyline_points.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class SuiviLivraison extends StatefulWidget {
   final String adresseLivraison; // Transmet depuis DetailCommandeFirestore
@@ -23,7 +24,7 @@ class _SuiviLivraisonState extends State<SuiviLivraison> {
   LatLng? _currentPosition;
   LatLng? _clientPosition;
   List<LatLng> _polylinePoints = [];
-  String apiKey = '';
+  String apiKey = dotenv.env['GOOGLE_API_KEY'] ?? '';
 
   @override
   void initState() {
