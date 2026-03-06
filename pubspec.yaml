@@ -118,6 +118,10 @@ flutter:
      - assets/images/Captures/PageProduit_final.jpg
      - assets/images/Captures/PanierPage.jpg
      - assets/images/Captures/ProfilClient.jpg
+     - assets/images/Captures/interf_LivreurDetailCmd.jpg
+     - assets/images/Captures/SuiviLivraisonPage.jpg
+     - assets/images/Captures/PageConfPaiement.jpg
+     - assets/images/Captures/Interf_LivreurCmd.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
