@@ -10,11 +10,17 @@ C'est une application mobile dédiée à la vente de produits aquaponies. VitalF
 - Suivre la livraison avec la géolocalisation
 
 ## Technologies
-- Flutter
+- `Flutter`
 - Node.js
 - Firebase
-- Stripe
-  
+- `Stripe`
+
+<!-- <ul>
+<li>FLUTTER</li>
+<li> STIPE</li>
+<li>Node.js</li>  
+</ul>  -->
+
 ## Captures d'écran 
 
 <table>
@@ -38,15 +44,16 @@ C'est une application mobile dédiée à la vente de produits aquaponies. VitalF
 <tr>
 <td><img src="assets/images/Captures/PanierPage.jpg" width="262"></td>
 <td><img src="assets/images/Captures/PagePaiement.jpg" width="262"></td>
-<td><img src="assets/images/Captures/DetailProduit_carotte.jpg" width="262"></td>  
+<td><img src="assets/images/Captures/PageConfPaiement.jpg" width="262"></td>  
 </tr>
 </table>
 
 <table>
 <tr>
-<td><img src="assets/images/Captures/InterfaceAdmin.jpg" width="262"></td>
-<td><img src="assets/images/Captures/interf_livreurDetail.jpg" width="262"></td>
-<td><img src="assets/images/Captures/SuiviLivraisonPagee.jpg" width="262"></td>  
+<td><img src="assets/images/Captures/InterfaceAdmin.jpg" width="260"></td>
+<td><img src="assets/images/Captures/Interf_LivreurCmd.jpg" width="260"></td>
+<td><img src="assets/images/Captures/SuiviLivraisonPage.jpg" width="260"></td> 
+<td><img src="assets/images/Captures/Interf_LivreurDetailCmd.jpg" width="260"></td>
 </tr>
 </table>
 
