@@ -16,9 +16,44 @@ C'est une application mobile dédiée à la vente de produits aquaponies. VitalF
 - Stripe
   
 ## Captures d'écran 
-![tof](assets/images/panier_leg.png)
-![Accueil](assets/images/Captures/cap_accueilPage.jpg)
-![Produit](assets/images/Captures/Pageproduit_final.jpg)
+
+<table>
+<tr>
+<td><img src="assets/images/Captures/ecran_Flash.jpg" width="262"></td>
+<td><img src="assets/images/Captures/cap connexion.jpg" width="262"></td>
+<td><img src="assets/images/Captures/ProfilClient.jpg" width="262"></td>  
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td><img src="assets/images/Captures/cap_accueilPage.jpg" width="262"></td>
+<td><img src="assets/images/Captures/PageProduit_final.jpg" width="262"></td>
+<td><img src="assets/images/Captures/DetailProduit_carotte.jpg" width="262"></td>  
+</tr>
+</table>
+
+<table>
+<tr>
+<td><img src="assets/images/Captures/PanierPage.jpg" width="262"></td>
+<td><img src="assets/images/Captures/PagePaiement.jpg" width="262"></td>
+<td><img src="assets/images/Captures/DetailProduit_carotte.jpg" width="262"></td>  
+</tr>
+</table>
+
+<table>
+<tr>
+<td><img src="assets/images/Captures/InterfaceAdmin.jpg" width="262"></td>
+<td><img src="assets/images/Captures/interf_livreurDetail.jpg" width="262"></td>
+<td><img src="assets/images/Captures/SuiviLivraisonPagee.jpg" width="262"></td>  
+</tr>
+</table>
+
+
+<!-- ![Accueil](assets/images/Captures/panier_leg.png) -->
+
+
 
 ## Auteur
  Oumou DRAME
